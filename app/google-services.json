@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34499638497",
+    "project_id": "webtoapp-7b3b4",
+    "storage_bucket": "webtoapp-7b3b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34499638497:android:b3ca2a1ed4442687a333a0",
+        "android_client_info": {
+          "package_name": "com.example.webtoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34499638497-u19da4hca1hloufso8crgfq0h2opflrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqGdw8SS8qJGN5ziHDoIhErZWZAa85fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34499638497-u19da4hca1hloufso8crgfq0h2opflrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
